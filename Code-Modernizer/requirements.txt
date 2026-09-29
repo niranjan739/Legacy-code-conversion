@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-openai
+langgraph
+python-dotenv
+chromadb
+tiktoken
+langchain-text-splitters
+langchain-community
+fastembed
+streamlit
+langgraph-checkpoint-sqlite
+tree-sitter
+tree-sitter-languages
+tenacity
